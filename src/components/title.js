@@ -11,7 +11,7 @@ const title = () => {
           fontSize: '4em'}}
           startDelay={100}
           cursorColor="white"
-          text="Boogie's Boutique"
+          text="Boogie Boutique"
           typeSpeed={80}
           eraseSpeed={100}
         />
