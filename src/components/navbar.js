@@ -20,7 +20,7 @@ const Navbar = () => {
               <p className="p-8 hover:bg-black hover:text-white">About</p>
             </Link>
             <Link to="/contact">
-              <p className="m-8">Contact</p>
+              <p className="p-8 hover:bg-black hover:text-white">Contact</p>
             </Link>
         </div>
     </nav>
