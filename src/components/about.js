@@ -9,8 +9,9 @@ const about = () => {
                 <div className='grid grid-cols-1'>
                   <div>
                     <p className="w-64">My name is Asia, I am 20 years old. Boogie's Boutique is based
-                    in Corvallis, Oregon. My passion is creating small jewelery pieces that are made
-                    with quality while also being affordable.</p>
+                    in Corvallis, Oregon. My passion is creating small jewelery pieces that are handmade
+                    with quality while also being affordable. You can also find any of my jewlery on Etsy @boogiesboutique
+                   I always have deals and budget items, also clothing from time to time. </p>
                     <h1 className='text-3xl mt-5'>Contact me at:</h1>
                     <p className="">Email: asia.jade@outlook.com</p>
                   </div>
