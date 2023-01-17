@@ -3,6 +3,7 @@ import Navbar from "./components/navbar"
 import Home from "./components/home"
 import About from "./components/about"
 import Shop from './components/shop'
+import Contact from './components/contact'
 import {
   BrowserRouter as Router,
   Switch,
@@ -30,6 +31,9 @@ function App() {
           </Route>
           <Route exact path="/soldout">
             <Soldout />
+          </Route>
+          <Route exact path="/contact">
+            <Contact />
           </Route>
         </Switch>
       </div>
