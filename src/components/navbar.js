@@ -7,15 +7,17 @@ const Navbar = () => {
       <Link to="/">
       <p className="pl-8 font-mono font-bold text-xl underline">Boogie's Boutique</p>
       </Link>
+
+        
         <div className="pr-8 font-mono flex underline">
             <Link to="/">
-              <p className="m-8">Home</p>
+              <p className="p-8 hover:bg-black hover:text-white">Home</p>
             </Link>
             <Link to="/shop">
-              <p className="m-8">Shop</p>
+              <p className="p-8 hover:bg-black hover:text-white">Shop</p>
             </Link>
             <Link to="/about">
-              <p className="m-8">About</p>
+              <p className="p-8 hover:bg-black hover:text-white">About</p>
             </Link>
         </div>
     </nav>
